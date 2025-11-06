@@ -33,7 +33,7 @@ Deploy ke Railway (ringkas)
 ---------------------------
 
 1. Buat bot di Telegram via @BotFather → catat token bot.
-2. Login ke https://railway.app dan buat project Node.js kosong.
+2. Login ke https://render.com dan buat project Node.js kosong.
 3. Upload file:
    - index.js
    - package.json
